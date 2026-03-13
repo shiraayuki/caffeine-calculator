@@ -1,5 +1,7 @@
 # ☕ Caffeine Calculator
 
+**Live Demo:** [shiraayuki.github.io/caffeine-calculator](https://shiraayuki.github.io/caffeine-calculator/)
+
 A modern, scientifically-oriented caffeine tracker that helps you understand your consumption and visualize its impact on your sleep (melatonin rhythm).
 
 ## ✨ Features
@@ -18,7 +20,7 @@ This project is built with **React 19**, **Vite**, and **TypeScript**.
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shiraayuki/caffeine-calculator.git
    cd caffeine-calculator
    ```
 
